@@ -1,4 +1,3 @@
-
 * {
     margin: 0;
     padding: 0;
@@ -94,11 +93,13 @@ hr {
 }
 
 .right-about-heading {
+    background: url('../images/Formal_vertical_style.jpg') no-repeat center center;
     width: 60%;
     float: left;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    border: #252525;
 }
 
 .right-about-heading h2 {
