@@ -56,12 +56,20 @@ h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-.splitter {
+#splitter {
     background: url('../images/spliter.png') no-repeat center center;
+    padding-top: 50px;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 50px;
+    float: inline-end;
 }
 
 /* types of bonsai*/
 
+#club-ethos {
+    height: 600px;
+}
 
 #left_about {
     padding-top: 30px;
@@ -123,10 +131,9 @@ footer {
 
 .social_media {
     text-align: center;
-
 }
 
-.social_media li {
+.social_media>li {
     display: inline;
 }
 
@@ -139,7 +146,7 @@ footer {
 
 /* Form */
 
-.contact_form_section {
+#contact_form_section {
     clear: left;
     background: url("../images/Semi-cascading-style.jpg") no-repeat center center;
     background-size: cover;
