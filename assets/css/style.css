@@ -56,6 +56,10 @@ h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
+.splitter {
+    background: url('../images/spliter.png') no-repeat center center;
+}
+
 /* types of bonsai*/
 
 
@@ -76,13 +80,6 @@ h2 {
     width: 33%;
     margin: 0 auto;
 }
-
-/*
-hr {
-    border-top: 1px solid #FFFFFF;
-    width: 100%;
-    margin: 5px 0;
-}*/
 
 .left-bonsai {
     background: url('../images/GROUP_FIT_STYLE.jpg') no-repeat center center;
@@ -144,7 +141,7 @@ footer {
 
 .contact_form_section {
     clear: left;
-    background: url("../images/Semi-cascading-style.jpg");
+    background: url("../images/Semi-cascading-style.jpg") no-repeat center center;
     background-size: cover;
     background-position: center;
     height: 900px;
