@@ -57,9 +57,7 @@ h2 {
 }
 
 /* types of bonsai*/
-#bonsai_type {
-    height: 600px;
-}
+
 
 #left_about {
     padding-top: 30px;
@@ -74,19 +72,21 @@ h2 {
 }
 
 #center_about {
+    padding-top: 30px;
     width: 33%;
     margin: 0 auto;
 }
 
+/*
 hr {
-    border-top: 1px solid #3a3a3a;
+    border-top: 1px solid #FFFFFF;
     width: 100%;
     margin: 5px 0;
-}
+}*/
 
 .left-bonsai {
     background: url('../images/GROUP_FIT_STYLE.jpg') no-repeat center center;
-    width: 60%;
+    width: 380px;
     float: right;
     height: 600px;
     clear: both;
@@ -95,7 +95,7 @@ hr {
 
 .right-bonsai {
     background: url('../images/Formal_vertical_style.jpg') no-repeat center center;
-    width: 60%;
+    width: 380px;
     float: left;
     height: 600px;
     clear: both;
@@ -104,9 +104,12 @@ hr {
 
 .center-bonsai {
     background: url('../images/TREE_on_a_stone.jpg') no-repeat center center;
-    width: 200px;
+    width: 380px;
     height: 600px;
-    /*padding: 30px;*/
+}
+
+.types_bonsai {
+    color: #fafafa92
 }
 
 #welcome {
@@ -141,7 +144,7 @@ footer {
 
 .contact_form_section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background: url("../images/Semi-cascading-style.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
