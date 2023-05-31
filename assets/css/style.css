@@ -63,12 +63,21 @@ h2 {
     height: 30px;
     margin-bottom: 50px;
     float: inline-end;
+    top: 30px;
+    right: 150px;
+    position: static;
 }
 
 /* types of bonsai*/
 
-#club-ethos {
-    height: 600px;
+#bonsai_about {
+    padding-top: 60px;
+    width: 33%;
+    margin: 0 auto;
+}
+
+p {
+    padding-top: 10px;
 }
 
 #left_about {
@@ -89,28 +98,59 @@ h2 {
     margin: 0 auto;
 }
 
-.left-bonsai {
+/*.left-bonsai {
     background: url('../images/GROUP_FIT_STYLE.jpg') no-repeat center center;
-    width: 380px;
+    width: 50%;
     float: right;
     height: 600px;
     clear: both;
     margin-bottom: 50px;
+}*/
+
+.left-bonsai {
+    background: url('../images/GROUP_FIT_STYLE.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 600px;
+    margin-left: 10px;
+    overflow: hidden;
 }
 
-.right-bonsai {
+/*.right-bonsai {
     background: url('../images/Formal_vertical_style.jpg') no-repeat center center;
-    width: 380px;
+    width: 50%;
     float: left;
     height: 600px;
     clear: both;
     margin-bottom: 50px;
+}*/
+.right-bonsai {
+    background: url('../images/Formal_vertical_style.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 600px;
+    margin-left: 10px;
+    overflow: hidden;
 }
 
-.center-bonsai {
+/*.center-bonsai {
     background: url('../images/TREE_on_a_stone.jpg') no-repeat center center;
-    width: 380px;
+    width: 50%;
     height: 600px;
+}*/
+.center-bonsai {
+    background: url('../images/TREE_on_a_stone.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 600px;
+    margin-left: 10px;
+    overflow: hidden;
 }
 
 .types_bonsai {
@@ -118,6 +158,7 @@ h2 {
 }
 
 #welcome {
+    padding-top: 60px;
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
@@ -180,7 +221,7 @@ footer {
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: #ed3b3b;
 }
 
 .subscribe_button {
@@ -189,14 +230,14 @@ footer {
     padding: 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
+    background-color: #307334;
     color: #fafafa;
     display: block;
 }
 
 .subscribe_button:hover {
     background-color: #fafafa;
-    color: #f16c6b;
+    color: #ed3b3b;
 }
 
 /* Media queries */
@@ -237,16 +278,5 @@ footer {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
-    }
-
-    #cover-text {
-        left: 0px;
-    }
-}
-
-/* For small screens sizes from 320px wide and down */
-@media screen and (max-width: 320px) {
-    #photo {
-        column-count: 2;
     }
 }
