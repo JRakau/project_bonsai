@@ -4,9 +4,29 @@
     border: 0;
 }
 
+body,
+html {
+    height: 100%;
+}
+
 body {
     font-family: Lato, sans-serif;
     color: #3a3a3a;
+}
+
+
+
+.bg {
+    /* The image used */
+    background-image: url("../images/bg.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
 }
 
 /* headings and logo */
@@ -120,7 +140,7 @@ p {
     background-size: cover;
     background-position: center;
     width: 100%;
-    height: 600px;
+    height: 300px;
     margin-left: 10px;
     overflow: hidden;
 }
@@ -139,7 +159,7 @@ p {
     background-size: cover;
     background-position: center;
     width: 100%;
-    height: 600px;
+    height: 300px;
     margin-left: 10px;
     overflow: hidden;
 }
@@ -155,7 +175,7 @@ p {
     background-size: cover;
     background-position: center;
     width: 100%;
-    height: 600px;
+    height: 300px;
     margin-left: 10px;
     overflow: hidden;
 }
@@ -197,7 +217,7 @@ footer {
 
 #contact_form_section {
     clear: left;
-    background: url("../images/Semi-cascading-style.jpg") no-repeat center center;
+    /*background: url("../images/Semi-cascading-style.jpg") no-repeat center center;*/
     background-size: cover;
     background-position: center;
     height: 900px;
