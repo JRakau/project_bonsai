@@ -80,6 +80,13 @@ p {
     padding-top: 10px;
 }
 
+.types_p_bonsai {
+    padding-left: 5px;
+    padding-right: 5px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    color: #fafafa92
+}
+
 #left_about {
     padding-top: 30px;
     width: 33%;
@@ -154,7 +161,8 @@ p {
 }
 
 .types_bonsai {
-    color: #fafafa92
+    color: #fafafa92;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 #welcome {
