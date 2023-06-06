@@ -188,8 +188,8 @@ p {
 #welcome {
     padding-top: 60px;
     text-align: center;
-    margin: 20px 0;
-    font-size: 280%;
+    margin: 10px 0;
+    font-size: 180%;
 }
 
 /* Footer */
@@ -216,16 +216,13 @@ footer {
 /* Form */
 
 #contact_form_section {
-    clear: left;
-    /*background: url("../images/Semi-cascading-style.jpg") no-repeat center center;*/
-    background-size: cover;
-    background-position: center;
-    height: 900px;
+
+    height: 550px;
 }
 
 .contact_form {
-    margin: 150px 10% 0 0;
-    color: #fff;
+    margin: 50px 10% 0 0;
+    color: #fafafa;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
@@ -246,6 +243,14 @@ footer {
     margin: 5px 0 20px;
     border: 1px solid #fafafa;
     border-radius: 2px;
+}
+
+textarea {
+    min-width: 150px;
+    max-width: 100%;
+    min-height: 100px;
+    height: 100%;
+    width: 100%;
 }
 
 .text-input:hover {
