@@ -11,17 +11,11 @@ html {
 
 body {
     font-family: Lato, sans-serif;
-    color: #3a3a3a;
 }
 
 .bg {
-    /* The image used */
     background-image: url("../images/bg3.jpg");
-
-    /* Full height */
     height: 100%;
-
-    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,7 +27,6 @@ h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
 }
 
 #logo {
@@ -44,7 +37,7 @@ h2 {
 
 /**************** navigation links ****************/
 #menu {
-    font-size: 110%;
+    font-size: 150%;
     letter-spacing: 4px;
     color: #fafafa92;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
@@ -53,6 +46,8 @@ h2 {
 #logo,
 #menu {
     line-height: 75px;
+    margin-top: 60px;
+    height: 100px;
     color: #fafafa92;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
@@ -76,6 +71,14 @@ h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
+.welcome {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 200%;
+    color: #fafafa92;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
 /****************  ****************/
 #bonsai_about {
     width: 33.33%;
@@ -87,20 +90,13 @@ h2 {
 }
 
 #contact_form_section {
-    height: 600px;
+    height: 450px;
     width: 33.33%;
     margin: 0 auto;
 }
 
-.welcome {
-    padding-top: 60px;
-    text-align: center;
-    margin: 10px 0;
-    font-size: 280%;
-}
-
 #row {
-    padding-top: 70px;
+    padding-top: 50px;
     display: flex;
     width: 100%;
 }
@@ -183,12 +179,10 @@ h2 {
 /**************** Form ****************/
 
 .contact_form {
-    margin: 50px 10% 0 0;
+    margin: 10px 10% 0 0;
     color: #fafafa;
     background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
-    position: absolute;
-    left: 33.33%;
+    width: 90%;
     padding: 30px;
 }
 
@@ -239,6 +233,7 @@ textarea {
 
 footer {
     height: 150px;
+    margin-top: 30px;
 }
 
 .social_media {
@@ -258,59 +253,30 @@ footer {
 
 /**************** Media queries ****************/
 
-/**************** For large to medium screens sizes from 950px wide and down ****************/
-@media screen and (max-width: 950px) {
+/**************** For smaller screens sizes 400px wide and down ****************/
 
-    #welcome {
-        padding: 30px 0;
-        margin-top: 0;
-    }
+@media screen and (min-width: 320px) {
 
-    #left_card,
-    #right_card {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    #center_card {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
+    #logo,
+    #menu {
+        margin-top: 100px;
     }
 }
 
 /**************** For medium screens sizes from 600px wide and down ****************/
-@media screen and (max-width: 600px) {
-
-    body,
-    html {
-        height: 50%;
-        width: 50%;
-    }
-
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
+@media screen and (min-width: 600px) {
+    body {
+        background-color: lavender;
     }
 }
 
-/**************** Reduce interactions with mobile devices ****************/
-/*@media (prefers-reduced-motion:reduce) {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-    scroll_behavior: auto !important;
-}*/
-
 /**************** Animations block ****************/
-@media (hover),
+@media (hover)
+
+/*,
 (pointer:none),
-(pointer:coarse) {
+(pointer:coarse)*/
+    {
     .card {
         transition: transform 500ms ease;
     }
