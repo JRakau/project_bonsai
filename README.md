@@ -1,6 +1,6 @@
-# Tacos Travels
+# Project Bonsai
 
-Tacos Travels is a website that allows users to follow Hair O' The Dog club member 'Taco' on his various adventures on his motorbike. These adventures range from day trips, charity events, weekends away and cross country adventures. The website also aims to provide information on the vital services provided by the Blood Bikes charity in which Taco used to volunteer for as an emergency rider. View the live site [here](https://gareth-mcgirr.github.io/tacos-travels/)
+Project bonsai is a website
 
 ![Mockup](docs/readme_images/mockup.JPG)
 
@@ -9,28 +9,21 @@ Tacos Travels is a website that allows users to follow Hair O' The Dog club memb
 ### Site wide
 
 - Navigation Menu
-  - Contains links to the Home, Gallery and Contact pages and will be responsive on all devices.
-  - This will allow users to easily navigate between the pages within the site on any size device.
 
-![Nav Menu](docs/readme_images/navigation_menu.JPG)
+  - ![Nav Menu](docs/readme_images/navigation_menu.JPG)
 
 - Footer
-  - This will contain icons as links to social media websites that will open in new tabs. Icons will be accessible to the visually impaired who may be using a screen reader, by the use of aria labels. The second part of the footer will contain contact information for 'Taco'.
-  - This will allow the user to follow 'Taco' on various social media where they can get more up to date information that may not be displayed on the website. The contact information will allow the user to contact 'Taco' directly.
+  -
 
 ![Footer](docs/readme_images/footer.JPG)
 
-- Favicon
-  - A site wide favicon will be implemented with the Hair O' The Dog clubs emblem.
-  - This will provide an image in the the tabs header to allow the user to easily identify the website if they have multiple tabs open.
+-
 
 ![Favicon](docs/readme_images/favicon.JPG)
 
 - 404 Page
-  - A 404 page will be implemented and will display if a user navigates to a broken link.
-  - The 404 page will allow the user to easily navigate back to the main website if they direct to a broken link / missing page, without the need of the browsers back button.
-
-![404](docs/readme_images/404_page.JPG)
+  - A 404
+  - ![404](docs/readme_images/404_page.JPG)
 
 ### Landing Page
 
@@ -59,7 +52,7 @@ Tacos Travels is a website that allows users to follow Hair O' The Dog club memb
 
 ![Contact Form Received](docs/readme_images/contact_form_received.JPG)
 
-### Gallery Page
+### Types Page
 
 - Gallery
   - The gallery will provide the user with photos of 'Taco's Motorcycle adventures from various trips and charity events. The gallery will be fully responsive on all devices and allows the user to filter by categories provided in a sub navigation.
@@ -67,69 +60,53 @@ Tacos Travels is a website that allows users to follow Hair O' The Dog club memb
 
 ![Gallery](docs/readme_images/gallery.JPG)
 
-### Adventures
+### Contat us
 
-- Adventure Summary
-  - Sections containing 2 photos of the trip, a paragraph about the trip and a link to the gallery page to see more photos.
-  - The sections will give the user an overview of the adventures that Taco has been on and the links will take the user to the gallery page where the user can view all the pictures that have been uplaoded for that trip.
-
-![Adventure Summary](docs/readme_images/adventures_summary.JPG)
-
-- More details dropdown
-  - Hidden sections at the end of each Adventure Summary that will show a more detailed description of the trip which may include more details about longer trips and information about places visited along the way.
-  - These section will be hidden by default so that user can only see the summaries on the page when loaded but the user will have ability with this feature to click and view more details at the end of the summary. This will allow user to easily scroll through the page and only view details of trips that they want to read more about.
-
-![Details Dropdown](docs/readme_images/details_dropdown.JPG)
+-
 
 ### Existing Features
 
 - Responsive design
-- Hidden interactive sections on adventure page
-- Responsive gallery with filtering
-- Contact form and success page
-- 3 Adventure trips and information
 
 ### Features Left to Implement
 
-- As a future enhancement, the contact form will be updated with javascript to send an email to Taco with the contact information.
-
-- Google map interaction to be added to the Adventures page instead of screen shots of the map.
+- ....
 
 ## Design
 
 ### Wireframes
 
 <br>
-Home page
+Bonsai page
 <br><br>
 
-![Home Page large screen](docs/readme_images/home_wireframe.JPG)
+![Bonsai Page large screen](docs/readme_images/home_wireframe.JPG)
 
-![Home Page small screen](docs/readme_images/home_mobile_wireframe.JPG)
+![Bonsai Page small screen](docs/readme_images/home_mobile_wireframe.JPG)
 <br><br>
-Contact form successful submission page.
+Bonsai form successful submission page.
 <br><br>
-![Contact form submission success](docs/readme_images/contact_wireframe.JPG)
+![Bonsai form submission success](docs/readme_images/contact_wireframe.JPG)
 
-![Contact form submission success](docs/readme_images/contact_mobile_wireframe.JPG)
+![Bonsai form submission success](docs/readme_images/contact_mobile_wireframe.JPG)
 
-Adventures page
+Types page
 <br><br>
-![Adventures page large screen](docs/readme_images/adventures_wireframe.JPG)
+![Types page large screen](docs/readme_images/adventures_wireframe.JPG)
 
-![Adventures page small screen](docs/readme_images/adventures_mobile_wireframe.JPG)
+![Types page small screen](docs/readme_images/adventures_mobile_wireframe.JPG)
 
-Gallery page
+Contact Us
 <br><br>
-![Gallery page large screen](docs/readme_images/gallery_wireframe.JPG)
+![Contact Us page large screen](docs/readme_images/gallery_wireframe.JPG)
 
-![Gallery page small screen](docs/readme_images/gallery_mobile.JPG)
+![Contact Us page small screen](docs/readme_images/gallery_mobile.JPG)
 
 404 page
 <br><br>
-![Gallery page large screen](docs/readme_images/404_wireframe.JPG)
+![Contact Us page large screen](docs/readme_images/404_wireframe.JPG)
 
-![Gallery page small screen](docs/readme_images/404_mobile_wireframe.JPG)
+![Contact Us page small screen](docs/readme_images/404_mobile_wireframe.JPG)
 <br><br><br><br>
 
 ## Technologies
@@ -161,59 +138,27 @@ All pages were tested to ensure responsiveness on screen sizes from 320px and up
 
 Steps to test:
 
-1. Open browser and navigate to [Tacos Travels](https://gareth-mcgirr.github.io/tacos-travels/)
-2. Open the developer tools (right click and inspect)
-3. Set to responsive and decrease width to 320px
-4. Set the zoom to 50%
-5. Click and drag the responsive window to maximum width
+1. Open browser and navigate to [Bonsai Project](https://jrakau.github.io/project_bonsai/index.html)
+2. .....
+3. .....
+4. ...
+5. ....
 
 Expected:
 
-Website is responsive on all screen sizes and no images are pixelated or stretched.
-No horizontal scroll is present.
-No elements overlap.
-
 Actual:
-
-Website behaved as expected with the exception of switching to landscape view in Mozilla Firefox. Details can be found in [Unfixed Bugs](#unfixed-bugs)
-
-Website was also opened on the following devices and no responsive issues were seen:
-
-- Oukitel C21 Pro
-- TCL 30 Pro
-- iPhone SE
-- Samsung Galaxy Tablet
 
 ### Accessibility
 
 [Wave Accessibility](https://wave.webaim.org/) tool was used throughout development and for final testing of the deployed website to check for any aid accessibility testing.
 
-Testing was focused to ensure the following criteria were met:
-
-- All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
-- Color contrasts meet a minimum ratio as specified in [WCAG 2.1 Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
-- Heading levels are not missed or skipped to ensure the importance of content is relayed correctly to the end user
-- All content is contained within landmarks to ensure ease of use for assistive technology, allowing the user to navigate by page regions
-- All not textual content had alternative text or titles so descriptions are read out to screen readers
-- HTML page lang attribute has been set
-- Aria properties have been implemented correctly
-- WCAG 2.1 Coding best practices being followed
-
-Manual tests were also performed to ensure the website was accessible as possible and an accessibility issue was identified.
-
-Issue #1: Use of hidden check boxes and labels for the gallery filter and accordion on the gallery page were not accessible via the keyboard due to the property display: none;
-
-Fix: I could not find a way to fix this issue with html and css alone so a tabindex of 0 was added to allow the label to be tabbed to and an onkeypress event to target and click the correct checkbox was implemented. Javascript code was taken from this [Mozilla Doc](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click)
-
-Issue #2: After keyboard controls were implemented, while testing the site with windows 'Narrator' screenreader, it was not clearly known what the purpose of the labels/checkboxes were. An aria-label label was added to the labels for screen readers to alert them that the labels were clickable and what their purpose was.
-
 ### Lighthouse Testing
 
-![Home](docs/testing/index_lighthouse.JPG)
+![Bonsai](docs/testing/)
 
-![Gallery](docs/testing/gallery_lighthouse.JPG)
+![Types](docs/testing/)
 
-![Adventures](docs/testing/adventures_lighthouse.JPG)
+![Contact Us](docs/testing/)
 
 ### Functional Testing
 
@@ -221,11 +166,11 @@ Issue #2: After keyboard controls were implemented, while testing the site with 
 
 Testing was performed to ensure all navigation links on the respective pages, navigated to the correct pages as per design. This was done by clicking on the navigation links on each page.
 
-| Navigation Link | Page to Load    |
-| --------------- | --------------- |
-| Home            | index.html      |
-| Aventures       | adventures.html |
-| Gallery         | gallery.html    |
+| Navigation Link | Page to Load       |
+| --------------- | ------------------ |
+| Bonsai          | index.html         |
+| Types           | types_bonsai.html  |
+| Contact Us      | comtatct_form.html |
 
 Links on all pages navigated to the correct pages as exptected.
 
@@ -237,102 +182,22 @@ _Scenario One - Correct Inputs_
 
 Steps to test:
 
-1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
-2. Scroll down to the form and input the following data:
-   - First Name: John
-   - Last Name: Doe
-   - Email: doe.john@test.com
-   - Comment: This is a test.
-3. Click Submit
-4. User should be redirected to contact.html confirmation page
+1. Navigate to [Bonsai Project - Home Page](https://jrakau.github.io/project_bonsai/index.html)
+2. .......:
+   - ......
+   - ....
+   - .....
+   - .....
+3. .....
+4. ....
 
 Expected:
 
-Form submits with no warnings or errors and user is redirected to contact.html confirmation page.
+......
 
 Actual:
 
-Website behaved as expected with no errors or warnings and redirected to contact.html.
-
-_Scenario Two - Missing Required Field First Name_
-
-Steps to test:
-
-1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
-2. Scroll down to the form and input the following data:
-   - First Name:
-   - Last Name: Doe
-   - Email: doe.john@test.com
-   - Comment: This is a test.
-3. Click Submit
-
-Expected:
-
-The form does not submit and an Error is displayed to tell the user that the field is required.
-
-Actual:
-
-Website behaved as expected, error message was displayed and the form did not submit.
-
-_Scenario Three - Missing Required Field Last Name_
-
-Steps to test:
-
-1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
-2. Scroll down to the form and input the following data:
-   - First Name:John
-   - Last Name:
-   - Email: doe.john@test.com
-   - Comment: This is a test.
-3. Click Submit
-
-Expected:
-
-The form does not submit and an Error is displayed to tell the user that the field is required.
-
-Actual:
-
-Website behaved as expected, error message was displayed and the form did not submit.
-
-_Scenario Four - Missing Required Field Email_
-
-Steps to test:
-
-1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
-2. Scroll down to the form and input the following data:
-   - First Name:John
-   - Last Name: Doe
-   - Email:
-   - Comment: This is a test.
-3. Click Submit
-
-Expected:
-
-The form does not submit and an Error is displayed to tell the user that the field is required.
-
-Actual:
-
-Website behaved as expected, error message was displayed and the form did not submit.
-
-_Scenario Six - Incorrect email format_
-
-Steps to test:
-
-1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
-2. Scroll down to the form and input the following data:
-   - First Name:John
-   - Last Name: Doe
-   - Email: doe.johntest.com
-   - Comment: This is a test.
-3. Click Submit
-
-Expected:
-
-The form does not submit and an Error is displayed to tell the user that a valid email is required and the format it should be in.
-
-Actual:
-
-Website behaved as expected, error message was displayed and the form did not submit.
+.......
 
 **Footer Social Media Icons / Links**
 
@@ -346,47 +211,34 @@ Testing was performed on the phone number in the contact information section of 
 
 _Steps to test Telephone Number_
 
-1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
-2. Click the phone number in the footer (01 123 456 789)
+1. Navigate to [Bonsai Project - Home Page](https://jrakau.github.io/project_bonsai/index.html)
+2. ......
 
 Expected:
 
-A window is opened asking which device you would like to call from.
+.......
 
 Actual:
 
-Behavior was as expected and the window presented me with the following option to call:
-
-- Oukitel Mobile Phone
-
-_Steps to test Email Link_
-
-1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
-2. Click the email address in the footer (taco@gmail.com)
-
-Expected:
-
-A windows popup is displayed asking what application you would like to send a mail from or your default email application is opened.
-
-Actual:
-
-Behavior was as expected and my outlook application was opened ready to send an email to the target address.
+......
 
 ### Validator Testing
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
 
-![Index HTML Validator Results](../assets/docs/testing/nu_html_checker_index.png)
+![Index HTML Validator Results](/assets/docs/testing/nu_html_checker_index.png)
 
-![Types_bonsai HTML Validator Results](../assets/docs/testing/nu_html_checker_types.png)
+![Types_bonsai HTML Validator Results](/assets/docs/testing/nu_html_checker_types.png)
 
-![Contact_form HTML Validator Results](../assets/docs/testing/nu_html_checker_contact.png)
+![Contact_form HTML Validator Results](/assets/docs/testing/nu_html_checker_contact.png)
+
+![404 HTML Validator Results](/assets/docs/testing/nu_html_checker_404.png)
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
 
-![CSS Validator Results](../assets/docs/testing/jigsaw_validator.png)
+![CSS Validator Results](/assets/docs/testing/jigsaw_validator.png)
 
 ### Unfixed Bugs
 
