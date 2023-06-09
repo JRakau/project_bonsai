@@ -8,52 +8,52 @@ Tacos Travels is a website that allows users to follow Hair O' The Dog club memb
 
 ### Site wide
 
-* Navigation Menu
-  * Contains links to the Home, Gallery and Contact pages and will be responsive on all devices.
-  * This will allow users to easily navigate between the pages within the site on any size device.
+- Navigation Menu
+  - Contains links to the Home, Gallery and Contact pages and will be responsive on all devices.
+  - This will allow users to easily navigate between the pages within the site on any size device.
 
 ![Nav Menu](docs/readme_images/navigation_menu.JPG)
 
-* Footer
-  * This will contain icons as links to social media websites that will open in new tabs. Icons will be accessible to the visually impaired who may be using a screen reader, by the use of aria labels. The second part of the footer will contain contact information for 'Taco'.
-  * This will allow the user to follow 'Taco' on various social media where they can get more up to date information that may not be displayed on the website. The contact information will allow the user to contact 'Taco' directly.
+- Footer
+  - This will contain icons as links to social media websites that will open in new tabs. Icons will be accessible to the visually impaired who may be using a screen reader, by the use of aria labels. The second part of the footer will contain contact information for 'Taco'.
+  - This will allow the user to follow 'Taco' on various social media where they can get more up to date information that may not be displayed on the website. The contact information will allow the user to contact 'Taco' directly.
 
 ![Footer](docs/readme_images/footer.JPG)
 
-* Favicon
-  * A site wide favicon will be implemented with the Hair O' The Dog clubs emblem.
-  * This will provide an image in the the tabs header to allow the user to easily identify the website if they have multiple tabs open.
+- Favicon
+  - A site wide favicon will be implemented with the Hair O' The Dog clubs emblem.
+  - This will provide an image in the the tabs header to allow the user to easily identify the website if they have multiple tabs open.
 
 ![Favicon](docs/readme_images/favicon.JPG)
 
-* 404 Page
-  * A 404 page will be implemented and will display if a user navigates to a broken link.
-  * The 404 page will allow the user to easily navigate back to the main website if they direct to a broken link / missing page, without the need  of the browsers back button.
+- 404 Page
+  - A 404 page will be implemented and will display if a user navigates to a broken link.
+  - The 404 page will allow the user to easily navigate back to the main website if they direct to a broken link / missing page, without the need of the browsers back button.
 
 ![404](docs/readme_images/404_page.JPG)
 
 ### Landing Page
 
-* Landing page image
-  * This will be a collection of favourite images from some of 'Taco's Travels. Images will change on a timer.
-  * This will help to immediately show the user what the website is about and help to animate the page.
+- Landing page image
+  - This will be a collection of favourite images from some of 'Taco's Travels. Images will change on a timer.
+  - This will help to immediately show the user what the website is about and help to animate the page.
 
 ![Landing Page Image](docs/readme_images/landing_page_image.JPG)
 
-* Website information on 'Taco'
-  * Information about 'Taco' and the websites purpose including an image of 'Taco' on his travels.
-  * This information lets the user know what the site is about.
+- Website information on 'Taco'
+  - Information about 'Taco' and the websites purpose including an image of 'Taco' on his travels.
+  - This information lets the user know what the site is about.
 
 ![Bio](docs/readme_images/about_me.JPG)
 
-* Contact form
-  * A contact form will be implemented to allow users to contact 'Taco'. The form will consist of the following fields and attributes:
-    * First Name (required, type=text)
-    * Last Name (required, type=text)
-    * Email (required, type=email)
-    * Message (required, type=textarea)
-  * On successful submission of the contact form, the user will be navigated to contact.html displaying a success message.
-  * This will allow user to contact 'Taco' if they have any queiries about travel destinations, charity events, club information or maybe to join him on some of his travels.
+- Contact form
+  - A contact form will be implemented to allow users to contact 'Taco'. The form will consist of the following fields and attributes:
+    - First Name (required, type=text)
+    - Last Name (required, type=text)
+    - Email (required, type=email)
+    - Message (required, type=textarea)
+  - On successful submission of the contact form, the user will be navigated to contact.html displaying a success message.
+  - This will allow user to contact 'Taco' if they have any queiries about travel destinations, charity events, club information or maybe to join him on some of his travels.
 
 ![Contact Form](docs/readme_images/contact_form.JPG)
 
@@ -61,39 +61,39 @@ Tacos Travels is a website that allows users to follow Hair O' The Dog club memb
 
 ### Gallery Page
 
-* Gallery
-  * The gallery will provide the user with photos of 'Taco's Motorcycle adventures from various trips and charity events. The gallery will be fully     responsive on all devices and allows the user to filter by categories provided in a sub navigation.
-  * This will allow users that are interested in 'Taco's Travels to filter items based on the category they wish to be displayed. As the gallery is responsive it will allow the user to view content from any device.
+- Gallery
+  - The gallery will provide the user with photos of 'Taco's Motorcycle adventures from various trips and charity events. The gallery will be fully responsive on all devices and allows the user to filter by categories provided in a sub navigation.
+  - This will allow users that are interested in 'Taco's Travels to filter items based on the category they wish to be displayed. As the gallery is responsive it will allow the user to view content from any device.
 
 ![Gallery](docs/readme_images/gallery.JPG)
 
 ### Adventures
 
-* Adventure Summary
-  * Sections containing 2 photos of the trip, a paragraph about the trip and a link to the gallery page to see more photos.
-  * The sections will give the user an overview of the adventures that Taco has been on and the links will take the user to the gallery page where the user can view all the pictures that have been uplaoded for that trip.
+- Adventure Summary
+  - Sections containing 2 photos of the trip, a paragraph about the trip and a link to the gallery page to see more photos.
+  - The sections will give the user an overview of the adventures that Taco has been on and the links will take the user to the gallery page where the user can view all the pictures that have been uplaoded for that trip.
 
 ![Adventure Summary](docs/readme_images/adventures_summary.JPG)
 
-* More details dropdown
-  * Hidden sections at the end of each Adventure Summary that will show a more detailed description of the trip which may include more details about longer trips and information about places visited along the way.
-  * These section will be hidden by default so that user can only see the summaries on the page when loaded but the user will have ability with this feature to click and view more details at the end of the summary. This will allow user to easily scroll through the page and only view details of trips that they want to read more about.
+- More details dropdown
+  - Hidden sections at the end of each Adventure Summary that will show a more detailed description of the trip which may include more details about longer trips and information about places visited along the way.
+  - These section will be hidden by default so that user can only see the summaries on the page when loaded but the user will have ability with this feature to click and view more details at the end of the summary. This will allow user to easily scroll through the page and only view details of trips that they want to read more about.
 
 ![Details Dropdown](docs/readme_images/details_dropdown.JPG)
 
 ### Existing Features
 
-* Responsive design
-* Hidden interactive sections on adventure page
-* Responsive gallery with filtering
-* Contact form and success page
-* 3 Adventure trips and information
+- Responsive design
+- Hidden interactive sections on adventure page
+- Responsive gallery with filtering
+- Contact form and success page
+- 3 Adventure trips and information
 
 ### Features Left to Implement
 
-* As a future enhancement, the contact form will be updated with javascript to send an email to Taco with the contact information.
+- As a future enhancement, the contact form will be updated with javascript to send an email to Taco with the contact information.
 
-* Google map interaction to be added to the Adventures page instead of screen shots of the map.
+- Google map interaction to be added to the Adventures page instead of screen shots of the map.
 
 ## Design
 
@@ -134,24 +134,24 @@ Gallery page
 
 ## Technologies
 
-* HTML
-  * The structure of the Website was developed using HTML as the main language.
-* CSS
-  * The Website was styled using custom CSS in an external file.
-* Visual Studio Code
-  * The website was developed using Visual Studio Code IDE
-* GitHub
-  * Source code is hosted on GitHub and delpoyed using Git Pages.
-* Git
-  * Used to commit and push code during the development opf the Website
-* Font Awesome
-  * Icons obtained from <https://fontawesome.com/> were used as the Social media links in the footer section.
-* Tinyjpg
-  * <https://tinyjpg.com/> was used to reduce the size of the images used throughout the website
-* Favicon.io
-  * favicon files were created at <https://favicon.io/favicon-converter/>
-* balsamiq
-  * wireframes were created using balsamiq from <https://balsamiq.com/wireframes/desktop/#>
+- HTML
+  - The structure of the Website was developed using HTML as the main language.
+- CSS
+  - The Website was styled using custom CSS in an external file.
+- Visual Studio Code
+  - The website was developed using Visual Studio Code IDE
+- GitHub
+  - Source code is hosted on GitHub and delpoyed using Git Pages.
+- Git
+  - Used to commit and push code during the development opf the Website
+- Font Awesome
+  - Icons obtained from <https://fontawesome.com/> were used as the Social media links in the footer section.
+- Tinyjpg
+  - <https://tinyjpg.com/> was used to reduce the size of the images used throughout the website
+- Favicon.io
+  - favicon files were created at <https://favicon.io/favicon-converter/>
+- balsamiq
+  - wireframes were created using balsamiq from <https://balsamiq.com/wireframes/desktop/#>
 
 ## Testing
 
@@ -179,10 +179,10 @@ Website behaved as expected with the exception of switching to landscape view in
 
 Website was also opened on the following devices and no responsive issues were seen:
 
-* Oukitel C21 Pro
-* TCL 30 Pro
-* iPhone SE
-* Samsung Galaxy Tablet
+- Oukitel C21 Pro
+- TCL 30 Pro
+- iPhone SE
+- Samsung Galaxy Tablet
 
 ### Accessibility
 
@@ -190,14 +190,14 @@ Website was also opened on the following devices and no responsive issues were s
 
 Testing was focused to ensure the following criteria were met:
 
-* All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
-* Color contrasts meet a minimum ratio as specified in [WCAG 2.1 Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
-* Heading levels are not missed or skipped to ensure the importance of content is relayed correctly to the end user
-* All content is contained within landmarks to ensure ease of use for assistive technology, allowing the user to navigate by page regions
-* All not textual content had alternative text or titles so descriptions are read out to screen readers
-* HTML page lang attribute has been set
-* Aria properties have been implemented correctly
-* WCAG 2.1 Coding best practices being followed
+- All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
+- Color contrasts meet a minimum ratio as specified in [WCAG 2.1 Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
+- Heading levels are not missed or skipped to ensure the importance of content is relayed correctly to the end user
+- All content is contained within landmarks to ensure ease of use for assistive technology, allowing the user to navigate by page regions
+- All not textual content had alternative text or titles so descriptions are read out to screen readers
+- HTML page lang attribute has been set
+- Aria properties have been implemented correctly
+- WCAG 2.1 Coding best practices being followed
 
 Manual tests were also performed to ensure the website was accessible as possible and an accessibility issue was identified.
 
@@ -239,10 +239,10 @@ Steps to test:
 
 1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
 2. Scroll down to the form and input the following data:
-   * First Name: John
-   * Last Name: Doe
-   * Email: doe.john@test.com
-   * Comment: This is a test.
+   - First Name: John
+   - Last Name: Doe
+   - Email: doe.john@test.com
+   - Comment: This is a test.
 3. Click Submit
 4. User should be redirected to contact.html confirmation page
 
@@ -260,10 +260,10 @@ Steps to test:
 
 1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
 2. Scroll down to the form and input the following data:
-   * First Name:
-   * Last Name: Doe
-   * Email: doe.john@test.com
-   * Comment: This is a test.
+   - First Name:
+   - Last Name: Doe
+   - Email: doe.john@test.com
+   - Comment: This is a test.
 3. Click Submit
 
 Expected:
@@ -280,10 +280,10 @@ Steps to test:
 
 1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
 2. Scroll down to the form and input the following data:
-   * First Name:John
-   * Last Name:
-   * Email: doe.john@test.com
-   * Comment: This is a test.
+   - First Name:John
+   - Last Name:
+   - Email: doe.john@test.com
+   - Comment: This is a test.
 3. Click Submit
 
 Expected:
@@ -300,10 +300,10 @@ Steps to test:
 
 1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
 2. Scroll down to the form and input the following data:
-   * First Name:John
-   * Last Name: Doe
-   * Email:
-   * Comment: This is a test.
+   - First Name:John
+   - Last Name: Doe
+   - Email:
+   - Comment: This is a test.
 3. Click Submit
 
 Expected:
@@ -320,10 +320,10 @@ Steps to test:
 
 1. Navigate to [Tacos Travels - Home Page](https://gareth-mcgirr.github.io/tacos-travels/index.html)
 2. Scroll down to the form and input the following data:
-   * First Name:John
-   * Last Name: Doe
-   * Email: doe.johntest.com
-   * Comment: This is a test.
+   - First Name:John
+   - Last Name: Doe
+   - Email: doe.johntest.com
+   - Comment: This is a test.
 3. Click Submit
 
 Expected:
@@ -357,7 +357,7 @@ Actual:
 
 Behavior was as expected and the window presented me with the following option to call:
 
-* Oukitel Mobile Phone
+- Oukitel Mobile Phone
 
 _Steps to test Email Link_
 
@@ -374,23 +374,19 @@ Behavior was as expected and my outlook application was opened ready to send an 
 
 ### Validator Testing
 
-* HTML
-  * No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
 
-![Contact HTML Validator Results](docs/testing/contact_validator.JPG)
+![Index HTML Validator Results](../assets/docs/testing/nu_html_checker_index.png)
 
-![Avdentures HTML Validator Results](docs/testing/adventures_validator.JPG)
+![Types_bonsai HTML Validator Results](../assets/docs/testing/nu_html_checker_types.png)
 
-![Home HTML Validator Results](docs/testing/home_validator.JPG)
+![Contact_form HTML Validator Results](../assets/docs/testing/nu_html_checker_contact.png)
 
-![Gallery HTML Validator Results](docs/testing/gallery_validator.JPG)
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
 
-![404 HTML Validator Results](docs/testing/404_validator.JPG)
-
-* CSS
-  * No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
-
-![CSS Validator Results](../docs/testing/jigsaw_validator.png)
+![CSS Validator Results](../assets/docs/testing/jigsaw_validator.png)
 
 ### Unfixed Bugs
 
@@ -404,20 +400,20 @@ The site was created using the Codeanywhere editor and pushed to github to the r
 
 The following git commands were used throughout development to push code to the remote repo:
 
-```git add <file>``` - This command was used to add the file(s) to the staging area before they are committed.
+`git add <file>` - This command was used to add the file(s) to the staging area before they are committed.
 
-```git commit -m “commit message”``` - This command was used to commit changes to the local repository queue ready for the final step.
+`git commit -m “commit message”` - This command was used to commit changes to the local repository queue ready for the final step.
 
-```git push``` - This command was used to push all committed code to the remote repository on github.
+`git push` - This command was used to push all committed code to the remote repository on github.
 
 ### Deployment to Github Pages
 
-* The site was deployed to GitHub pages. The steps to deploy are as follows:
-  * In the GitHub repository, navigate to the Settings tab
-  * From the menu on left select 'Pages'
-  * From the source section drop-down menu, select the Branch: main
-  * Click 'Save'
-  * A live link will be displayed in a green banner when published successfully.
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - From the menu on left select 'Pages'
+  - From the source section drop-down menu, select the Branch: main
+  - Click 'Save'
+  - A live link will be displayed in a green banner when published successfully.
 
 The live link can be found here - <https://jrakau.github.io/project_bonsai/>
 
@@ -425,11 +421,11 @@ The live link can be found here - <https://jrakau.github.io/project_bonsai/>
 
 Navigate to the GitHub Repository you want to clone to use locally:
 
-* Click on the code drop down button
-* Click on HTTPS
-* Copy the repository link to the clipboard
-* Open your IDE of choice (git must be installed for the next steps)
-* Type git clone copied-git-url into the IDE terminal
+- Click on the code drop down button
+- Click on HTTPS
+- Copy the repository link to the clipboard
+- Open your IDE of choice (git must be installed for the next steps)
+- Type git clone copied-git-url into the IDE terminal
 
 The project will now of been cloned on your local machine for use.
 
@@ -438,5 +434,3 @@ The project will now of been cloned on your local machine for use.
 All content with the exception of those listed in the Media section of this document was owned by Hair O'The Dog club members Rocket and Taco. Permission was granted from Rocket to use the images.
 
 ### Media
-
-
