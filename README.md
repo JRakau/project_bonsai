@@ -2,63 +2,15 @@
 
 Project bonsai is a website
 
-![Mockup](docs/readme_images/mockup.JPG)
-
 ## Features
 
 ### Site wide
 
-- Navigation Menu
-
-  - ![Nav Menu](docs/readme_images/navigation_menu.JPG)
-
-- Footer
-  -
-
-![Footer](docs/readme_images/footer.JPG)
-
--
-
-![Favicon](docs/readme_images/favicon.JPG)
-
-- 404 Page
-  - A 404
-  - ![404](docs/readme_images/404_page.JPG)
+- ## Footer
 
 ### Landing Page
 
-- Landing page image
-  - This will be a collection of favourite images from some of 'Taco's Travels. Images will change on a timer.
-  - This will help to immediately show the user what the website is about and help to animate the page.
-
-![Landing Page Image](docs/readme_images/landing_page_image.JPG)
-
-- Website information on 'Taco'
-  - Information about 'Taco' and the websites purpose including an image of 'Taco' on his travels.
-  - This information lets the user know what the site is about.
-
-![Bio](docs/readme_images/about_me.JPG)
-
-- Contact form
-  - A contact form will be implemented to allow users to contact 'Taco'. The form will consist of the following fields and attributes:
-    - First Name (required, type=text)
-    - Last Name (required, type=text)
-    - Email (required, type=email)
-    - Message (required, type=textarea)
-  - On successful submission of the contact form, the user will be navigated to contact.html displaying a success message.
-  - This will allow user to contact 'Taco' if they have any queiries about travel destinations, charity events, club information or maybe to join him on some of his travels.
-
-![Contact Form](docs/readme_images/contact_form.JPG)
-
-![Contact Form Received](docs/readme_images/contact_form_received.JPG)
-
 ### Types Page
-
-- Gallery
-  - The gallery will provide the user with photos of 'Taco's Motorcycle adventures from various trips and charity events. The gallery will be fully responsive on all devices and allows the user to filter by categories provided in a sub navigation.
-  - This will allow users that are interested in 'Taco's Travels to filter items based on the category they wish to be displayed. As the gallery is responsive it will allow the user to view content from any device.
-
-![Gallery](docs/readme_images/gallery.JPG)
 
 ### Contat us
 
@@ -80,33 +32,23 @@ Project bonsai is a website
 Bonsai page
 <br><br>
 
-![Bonsai Page large screen](docs/readme_images/home_wireframe.JPG)
+![Bonsai Page large screen](/assets/docs/testing/index.png)
 
-![Bonsai Page small screen](docs/readme_images/home_mobile_wireframe.JPG)
+![Bonsai Page small screen](/assets/docs/testing/index_m.png)
 <br><br>
-Bonsai form successful submission page.
-<br><br>
-![Bonsai form submission success](docs/readme_images/contact_wireframe.JPG)
-
-![Bonsai form submission success](docs/readme_images/contact_mobile_wireframe.JPG)
 
 Types page
 <br><br>
-![Types page large screen](docs/readme_images/adventures_wireframe.JPG)
+![Types page small screen](/assets/docs/testing/types.png)
 
-![Types page small screen](docs/readme_images/adventures_mobile_wireframe.JPG)
+![Types page small screen](/assets/docs/testing/types_m.png)
 
 Contact Us
 <br><br>
-![Contact Us page large screen](docs/readme_images/gallery_wireframe.JPG)
+![Contact Us page large screen](/assets/docs/testing/contact.png)
 
-![Contact Us page small screen](docs/readme_images/gallery_mobile.JPG)
+![Contact Us page small screen](/assets/docs/testing/contact_m.png)
 
-404 page
-<br><br>
-![Contact Us page large screen](docs/readme_images/404_wireframe.JPG)
-
-![Contact Us page small screen](docs/readme_images/404_mobile_wireframe.JPG)
 <br><br><br><br>
 
 ## Technologies
