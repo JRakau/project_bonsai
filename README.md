@@ -390,7 +390,7 @@ Behavior was as expected and my outlook application was opened ready to send an 
 * CSS
   * No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
 
-![CSS Validator Results](docs/testing/css_validator.JPG)
+![CSS Validator Results](../docs/testing/jigsaw_validator.png)
 
 ### Unfixed Bugs
 
