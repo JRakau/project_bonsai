@@ -152,7 +152,7 @@ h2 {
     position: relative;
     width: max-content;
     color: var(--whiteG);
-    text-shadow: ;
+    text-shadow: var(--shadow);
 }
 
 .card_title::after {
