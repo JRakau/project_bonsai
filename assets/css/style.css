@@ -93,7 +93,6 @@ h2 {
     min-height: 50px;
     color: var(--whiteG);
     text-shadow: var(--shadow);
-    border: red 1px solid;
 }
 
 /***********************************************/
@@ -105,7 +104,7 @@ h2 {
     margin: 0 auto;
 }
 
-.round {
+.round_text {
     float: left;
     width: 200px;
     height: 200px;
@@ -114,7 +113,6 @@ h2 {
     /* Change the shape according
                     to the image */
     shape-outside: circle();
-    border: red 1px solid;
 }
 
 .text_about {
