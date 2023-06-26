@@ -29,7 +29,7 @@ Project bonsai is a website
 Bonsai page
 <br><br>
 
-!;[Bonsai Page large screen](/docs/testing/index.png)
+![Bonsai Page large screen](/docs/testing/index.png)
 
 ![Bonsai Page small screen](/docs/testing/index_m.png)
 <br><br>
