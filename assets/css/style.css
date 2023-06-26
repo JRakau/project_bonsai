@@ -110,7 +110,9 @@ h2 {
     height: 200px;
     border-radius: 50%;
     text-align: center;
-    shape-outside: circle();
+    /* Change the shape according
+                    to the image */
+    shape-outside: circle(50%);
 }
 
 .text_about {
