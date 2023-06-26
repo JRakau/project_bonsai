@@ -112,7 +112,7 @@ h2 {
     text-align: center;
     /* Change the shape according
                     to the image */
-    shape-outside: circle(50%);
+    shape-outside: circle();
 }
 
 .text_about {
