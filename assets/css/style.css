@@ -112,7 +112,7 @@ h2 {
     text-align: center;
     /* Change the shape according
                     to the image */
-    shape-outside: circle(250px at 50% 50%) padding-box;
+    shape-outside: ellipse();
 
 }
 

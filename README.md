@@ -6,15 +6,11 @@ Project bonsai is a website
 
 ### Site wide
 
-- ## Footer
-
-### Landing Page
+## Footer
 
 ### Types Page
 
 ### Contat us
-
--
 
 ### Existing Features
 
@@ -28,26 +24,28 @@ Project bonsai is a website
 
 ### Wireframes
 
-<br>
+<br/>
+
 Bonsai page
 <br><br>
 
-![Bonsai Page large screen](/assets/docs/testing/index.png)
+!;[Bonsai Page large screen](/docs/testing/index.png)
 
-![Bonsai Page small screen](/assets/docs/testing/index_m.png)
+![Bonsai Page small screen](/docs/testing/index_m.png)
 <br><br>
 
 Types page
 <br><br>
-![Types page small screen](/assets/docs/testing/types.png)
+![Types page small screen](/docs/testing/types.png)
 
-![Types page small screen](/assets/docs/testing/types_m.png)
+![Types page small screen](/docs/testing/types_m.png)
+<br><br>
 
 Contact Us
 <br><br>
-![Contact Us page large screen](/assets/docs/testing/contact.png)
+![Contact Us page large screen](/docs/testing/contact.png)
 
-![Contact Us page small screen](/assets/docs/testing/contact_m.png)
+![Contact Us page small screen](/docs/testing/contact_m.png)
 
 <br><br><br><br>
 
@@ -169,18 +167,18 @@ Actual:
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
 
-![Index HTML Validator Results](/assets/docs/testing/nu_html_checker_index.png)
+![Index HTML Validator Results](/docs/testing/nu_html_checker_index.png)
 
-![Types_bonsai HTML Validator Results](/assets/docs/testing/nu_html_checker_types.png)
+![Types_bonsai HTML Validator Results](/docs/testing/nu_html_checker_types.png)
 
-![Contact_form HTML Validator Results](/assets/docs/testing/nu_html_checker_contact.png)
+![Contact_form HTML Validator Results](/docs/testing/nu_html_checker_contact.png)
 
-![404 HTML Validator Results](/assets/docs/testing/nu_html_checker_404.png)
+![404 HTML Validator Results](/docs/testing/nu_html_checker_404.png)
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
 
-![CSS Validator Results](/assets/docs/testing/jigsaw_validator.png)
+![CSS Validator Results](/docs/testing/jigsaw_validator.png)
 
 ### Unfixed Bugs
 
