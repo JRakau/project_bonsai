@@ -173,7 +173,7 @@ Actual:
 
 ![Contact_form HTML Validator Results](https://jrakau.github.io/project_bonsai/docs/testing/nu_html_checker_contact.png)
 
-![404 HTML Validator Results](https://jrakau.github.io/project_bonsai/docs/testing/nu_html_checker_404.png)
+![Thank_you HTML Validator Results](https://jrakau.github.io/project_bonsai/docs/testing/nu_html_checker_thank_you.png)
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
