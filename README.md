@@ -29,23 +29,23 @@ Project bonsai is a website
 Bonsai page
 <br><br>
 
-![Bonsai Page large screen](/docs/testing/index.png)
+![Bonsai Page large screen](https://jrakau.github.io/project_bonsai/docs/testing/index.png)
 
-![Bonsai Page small screen](/docs/testing/index_m.png)
+![Bonsai Page small screen](https://jrakau.github.io/project_bonsai/docs/testing/index_m.png)
 <br><br>
 
 Types page
 <br><br>
-![Types page small screen](/docs/testing/types.png)
+![Types page small screen](https://jrakau.github.io/project_bonsai/docs/testing/types.png)
 
-![Types page small screen](/docs/testing/types_m.png)
+![Types page small screen](https://jrakau.github.io/project_bonsai/docs/testing/types_m.png)
 <br><br>
 
 Contact Us
 <br><br>
-![Contact Us page large screen](/docs/testing/contact.png)
+![Contact Us page large screen](https://jrakau.github.io/project_bonsai/docs/testing/contact.png)
 
-![Contact Us page small screen](/docs/testing/contact_m.png)
+![Contact Us page small screen](https://jrakau.github.io/project_bonsai/docs/testing/contact_m.png)
 
 <br><br><br><br>
 
@@ -167,18 +167,18 @@ Actual:
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
 
-![Index HTML Validator Results](/docs/testing/nu_html_checker_index.png)
+![Index HTML Validator Results](https://jrakau.github.io/project_bonsaihttps://jrakau.github.io/project_bonsai/docs/testing/nu_html_checker_index.png)
 
-![Types_bonsai HTML Validator Results](/docs/testing/nu_html_checker_types.png)
+![Types_bonsai HTML Validator Results](https://jrakau.github.io/project_bonsai/docs/testing/nu_html_checker_types.png)
 
-![Contact_form HTML Validator Results](/docs/testing/nu_html_checker_contact.png)
+![Contact_form HTML Validator Results](https://jrakau.github.io/project_bonsai/docs/testing/nu_html_checker_contact.png)
 
-![404 HTML Validator Results](/docs/testing/nu_html_checker_404.png)
+![404 HTML Validator Results](https://jrakau.github.io/project_bonsai/docs/testing/nu_html_checker_404.png)
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
 
-![CSS Validator Results](/docs/testing/jigsaw_validator.png)
+![CSS Validator Results](https://jrakau.github.io/project_bonsai/docs/testing/jigsaw_validator.png)
 
 ### Unfixed Bugs
 
