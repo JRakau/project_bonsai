@@ -1,28 +1,12 @@
 # Project Bonsai
 
-Project bonsai is a website
+Project bonsai is a website to help people to learn more about Bonsai.
 
 ## Features
 
-### Site wide
+On the index page I used images and text going around the image, and then on types was used cards with animations to create some movement, furthermore on form, it is the area to subscribe and get more information. Footer we have links for our main social media
 
-## Footer
-
-### Types Page
-
-### Contat us
-
-### Existing Features
-
-- Responsive design
-
-### Features Left to Implement
-
-- ....
-
-## Design
-
-### Wireframes
+### Screen Initial plan
 
 <br/>
 
@@ -94,11 +78,13 @@ Actual:
 
 ### Lighthouse Testing
 
-![Bonsai](docs/testing/)
+![Home screen](https://jrakau.github.io/project_bonsai/docs/testing/index_screen.png)
 
-![Types](docs/testing/)
+![Types screen](https://jrakau.github.io/project_bonsai/docs/testing/type_screen.png)
 
-![Contact Us](docs/testing/)
+![Types Card open screen](https://jrakau.github.io/project_bonsai/docs/testing/type_screen2.png)
+
+![Contact Us screen](https://jrakau.github.io/project_bonsai/docs/testing/form_screen.png)
 
 ### Functional Testing
 
