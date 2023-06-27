@@ -4,34 +4,27 @@ Project bonsai is a website to help people to learn more about Bonsai.
 
 ## Features
 
-On the index page I used images and text going around the image, and then on types was used cards with animations to create some movement, furthermore on form, it is the area to subscribe and get more information. Footer we have links for our main social media
+On the index page I used images and text going around the image, and then on types was used cards with animations to create some movement, furthermore on form, it is the area to subscribe and get more information. Footer we have links for our main social media.
 
 ### Screen Initial plan
 
-<br/>
-
 Bonsai page
-<br><br>
 
 ![Bonsai Page large screen](https://jrakau.github.io/project_bonsai/docs/testing/index.png)
 
 ![Bonsai Page small screen](https://jrakau.github.io/project_bonsai/docs/testing/index_m.png)
-<br><br>
 
 Types page
-<br><br>
+
 ![Types page small screen](https://jrakau.github.io/project_bonsai/docs/testing/types.png)
 
 ![Types page small screen](https://jrakau.github.io/project_bonsai/docs/testing/types_m.png)
-<br><br>
 
 Contact Us
-<br><br>
+
 ![Contact Us page large screen](https://jrakau.github.io/project_bonsai/docs/testing/contact.png)
 
 ![Contact Us page small screen](https://jrakau.github.io/project_bonsai/docs/testing/contact_m.png)
-
-<br><br><br><br>
 
 ## Technologies
 
@@ -58,25 +51,27 @@ Contact Us
 
 ### Responsiveness
 
-All pages were tested to ensure responsiveness on screen sizes from 320px and upwards as defined in [WCAG 2.1 Reflow criteria for responsive design](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html) on Chrome, Edge, Firefox and Opera browsers.
+All pages were tested to ensure responsiveness on screen sizes from 320px and upwards as defined in [WCAG 2.1 Reflow criteria for responsive design](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html) on Chrome, Edge, Firefox, Opera, and Safari browsers.
 
 Steps to test:
 
 1. Open browser and navigate to [Bonsai Project](https://jrakau.github.io/project_bonsai/index.html)
-2. .....
-3. .....
-4. ...
-5. ....
+2. Click on Bonsai
+3. Load page
 
 Expected:
 
+Load a xxx.html page properly
+
 Actual:
+
+Load a xxx.html page properly without any issues
 
 ### Accessibility
 
-[Wave Accessibility](https://wave.webaim.org/) tool was used throughout development and for final testing of the deployed website to check for any aid accessibility testing.
+Developer tools from Chrome was used throughout development and for final testing of the deployed website to check for any aid accessibility testing. Using diferents screen sizes and device simulator
 
-### Lighthouse Testing
+### Pages Testing
 
 ![Home screen](https://jrakau.github.io/project_bonsai/docs/testing/index_screen.png)
 
@@ -88,7 +83,7 @@ Actual:
 
 ### Functional Testing
 
-**Navigation Links**
+-**Navigation Links**
 
 Testing was performed to ensure all navigation links on the respective pages, navigated to the correct pages as per design. This was done by clicking on the navigation links on each page.
 
@@ -100,53 +95,88 @@ Testing was performed to ensure all navigation links on the respective pages, na
 
 Links on all pages navigated to the correct pages as exptected.
 
-**Form Testing**
+-**Index Testing**
 
 The form on the home page was tested to ensure it functioned as expected when correct data was input and when incorrect data was input. The following test scenarios were covered:
 
-_Scenario One - Correct Inputs_
-
 Steps to test:
 
-1. Navigate to [Bonsai Project - Home Page](https://jrakau.github.io/project_bonsai/index.html)
-2. .......:
-   - ......
-   - ....
-   - .....
-   - .....
-3. .....
-4. ....
+1. Open browser and navigate to [Bonsai Project](https://jrakau.github.io/project_bonsai/index.html)
+2. Click on Bonsai
+3. Load page
 
 Expected:
 
-......
+Load a index.html page, with a bonsai image and text around
 
 Actual:
 
-.......
+Load a index.html page without issues, with a bonsai image and text around
 
-**Footer Social Media Icons / Links**
+-**Types Testing**
+
+The form on the home page was tested to ensure it functioned as expected when correct data was input and when incorrect data was input. The following test scenarios were covered:
+
+Steps to test:
+
+1. Open browser and navigate to [Bonsai Project](https://jrakau.github.io/project_bonsai/types_bonsai.html)
+2. Or Click on types at the Navegation Menu
+3. Load page
+4. Mouse over the image
+5. The animation should go bottom up smootie and show more information
+6. Clincking on on the link More, should bring you to form for subscription
+
+Expected:
+
+Load a types_bonsai.html page, with a tree bonsai image, a short description and a link for More (For form subscription)
+
+Actual:
+
+Load a types_bonsai.html page without issues, with a tree bonsai image, a short description and a link for More (For form subscription)
+
+-**Form Testing**
+
+The form on the home page was tested to ensure it functioned as expected when correct data was input and when incorrect data was input. The following test scenarios were covered:
+
+-_Scenario One - Blank Inputs_
+
+Steps to test:
+
+1. Open browser and navigate to [Bonsai Project](https://jrakau.github.io/project_bonsai/contact_form.html)
+2. Or Click on Contact Us
+3. Load page with form
+4. Press Subscribe without fill the fields
+
+Expected:
+
+Load a contact_form.html page, with a form, and then you press subscribe without filling the field should return a message for each field
+
+Actual:
+
+Load a contact_form.html page with a form without issues, and then was pressed subscribe button without filling the field, Form returned the message for each field was missing
+
+-_Scenario Two - Correct Inputs_
+
+Steps to test:
+
+1. Open browser and navigate to [Bonsai Project](https://jrakau.github.io/project_bonsai/contact_form.html)
+2. Or Click on Contact Us
+3. Load page with form
+4. Press Subscribe filling the fields properly
+
+Expected:
+
+Load a contact_form.html page, with a form, and then you press subscribe filling the field corretly should return thank you
+
+Actual:
+
+Load a contact_form.html page with a form without issues, and then was pressed subscribe button filling the fields properly, and then was returned the message thank you
+
+-**Footer Social Media Icons / Links**
 
 Testing was performed on the Font Awesome Social Media icons in the footer to ensure that each one opened in a new tab and that each one had a hover affect of the orange branding color.
 
 Each item opened a new tab when clicked as expected and correct hover color was present.
-
-**Footer Contact Information**
-
-Testing was performed on the phone number in the contact information section of the footer to ensure behaviour was as expected.
-
-_Steps to test Telephone Number_
-
-1. Navigate to [Bonsai Project - Home Page](https://jrakau.github.io/project_bonsai/index.html)
-2. ......
-
-Expected:
-
-.......
-
-Actual:
-
-......
 
 ### Validator Testing
 
@@ -206,9 +236,3 @@ Navigate to the GitHub Repository you want to clone to use locally:
 - Type git clone copied-git-url into the IDE terminal
 
 The project will now of been cloned on your local machine for use.
-
-### Content
-
-All content with the exception of those listed in the Media section of this document was owned by Hair O'The Dog club members Rocket and Taco. Permission was granted from Rocket to use the images.
-
-### Media
