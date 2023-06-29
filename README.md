@@ -32,7 +32,7 @@ Contact Us
   - The structure of the Website was developed using HTML as the main language.
 - CSS
   - The Website was styled using custom CSS in an external file.
-- Visual Studio Code
+- Codeanywhere
   - The website was developed using Visual Studio Code IDE
 - GitHub
   - Source code is hosted on GitHub and delpoyed using Git Pages.
@@ -40,8 +40,6 @@ Contact Us
   - Used to commit and push code during the development opf the Website
 - Font Awesome
   - Icons obtained from <https://fontawesome.com/> were used as the Social media links in the footer section.
-- Tinyjpg
-  - <https://tinyjpg.com/> was used to reduce the size of the images used throughout the website
 - Favicon.io
   - favicon files were created at <https://favicon.io/favicon-converter/>
 - balsamiq
@@ -183,7 +181,7 @@ Each item opened a new tab when clicked as expected and correct hover color was 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
 
-![Index HTML Validator Results](https://jrakau.github.io/project_bonsaihttps://jrakau.github.io/project_bonsai/docs/testing/nu_html_checker_index.png)
+![Index HTML Validator Results](https://jrakau.github.io/project_bonsai/docs/testing/nu_html_checker_index.png)
 
 ![Types_bonsai HTML Validator Results](https://jrakau.github.io/project_bonsai/docs/testing/nu_html_checker_types.png)
 
