@@ -3,7 +3,7 @@
 /***********************************************/
 :root {
   --shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-  --whiteG: #fcfcfc;
+  --white: #fcfcfc;
   --left_img: url("../images/group_fit_style.jpg");
   --center_img: url("../images/tree_on_a_stone.jpg");
   --right_img: url("../images/formal_vertical_style.jpg");
@@ -56,7 +56,7 @@ h2 {
 #menu {
   font-size: 150%;
   letter-spacing: 4px;
-  color: var(--whiteG);
+  color: var(--white);
   text-shadow: var(--shadow);
   margin-top: 60px;
   height: 100px;
@@ -87,7 +87,7 @@ h2 {
   font-size: 200%;
   margin-top: 100px;
   min-height: 50px;
-  color: var(--whiteG);
+  color: var(--white);
   text-shadow: var(--shadow);
 }
 
@@ -185,7 +185,7 @@ img {
 .card_title {
   position: relative;
   width: max-content;
-  color: var(--whiteG);
+  color: var(--white);
   text-shadow: var(--shadow);
 }
 
@@ -203,14 +203,14 @@ img {
   cursor: pointer;
   display: inline-block;
   text-decoration: none;
-  color: var(--whiteG);
+  color: var(--white);
   background-color: #307334;
   padding: 0.5em 1.25em;
   border-radius: 0.25rem;
 }
 
 .card_body {
-  color: var(--whiteG);
+  color: var(--white);
 }
 
 /***********************************************/
@@ -410,7 +410,7 @@ footer {
 
   .card_button:hover,
   .card_button:focus {
-    background-color: var(--whiteG);
+    background-color: var(--white);
     color: #252525;
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
   }
