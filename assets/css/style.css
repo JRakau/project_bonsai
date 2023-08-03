@@ -106,9 +106,6 @@ h2 {
   height: 200px;
   border-radius: 50%;
   text-align: center;
-  /* Change the shape according
-                    to the image */
-  shape-outside: circle();
 }
 
 .text_about {
